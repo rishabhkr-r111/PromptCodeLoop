@@ -42,7 +42,7 @@ PromptCodeLoop is a Python application that generates code based on user prompts
 
 ## Video Demo
 
-https://github.com/rishabhkr-r111/PromptCodeLoop/assets/117273351/9bee345b-ea56-4725-b8ab-a74ef3fb7b35
+[![Demo Video](https://i3.ytimg.com/vi/mvBB7jGcjKI/maxresdefault.jpg)](https://youtu.be/mvBB7jGcjKI)
 
 
 
